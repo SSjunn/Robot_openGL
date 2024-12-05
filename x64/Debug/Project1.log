@@ -1,0 +1,38 @@
+﻿main.obj : error LNK2019: __imp_glBegin"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glClear"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glClearColor"void __cdecl init(void)" (?init@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glColor3d"void __cdecl lowers(int)" (?lowers@@YAXH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glColor3f"void __cdecl arms(int)" (?arms@@YAXH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glEnable"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glEnd"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glLoadIdentity"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glMatrixMode"void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glPolygonMode"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glPopMatrix"void __cdecl arms(int)" (?arms@@YAXH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glPushMatrix"void __cdecl arms(int)" (?arms@@YAXH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glRotatef"void __cdecl arms(int)" (?arms@@YAXH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glScalef"void __cdecl arms(int)" (?arms@@YAXH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glTranslated"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glTranslatef"void __cdecl arms(int)" (?arms@@YAXH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glVertex3f"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: __imp_glViewport"void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: gluPerspective"void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: gluLookAt"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutInitmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutInitDisplayModemain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutInitWindowSizemain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutMainLoopmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutCreateWindowmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutPostRedisplay"void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutSwapBuffers"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutDisplayFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutReshapeFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutKeyboardFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutSolidSphere"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutSolidCube"void __cdecl arms(int)" (?arms@@YAXH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: glutSolidTorus"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\opengl32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\glut32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\glu32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64\glaux.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\tjtjd\Desktop\3-2\OpenGL\Final_Project\Robot\x64\Debug\Project1.exe : fatal error LNK1120: 33개의 확인할 수 없는 외부 참조입니다.
